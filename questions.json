@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Classic T-Shirt",
+            "price": 14.99,
+            "description": "A comfortable cotton T-shirt for everyday wear.",
+            "image": "Untitled design (4).png"
+        },
+        {
+            "id": 2,
+            "name": "Denim Jeans",
+            "price": 39.99,
+            "description": "Stylish blue denim jeans with a slim fit design.",
+            "image": "Untitled design (3).png"
+        },
+        {
+            "id": 3,
+            "name": "Running Shoes",
+            "price": 59.99,
+            "description": "Lightweight running shoes with breathable fabric.",
+            "image": "Untitled design (7).png"
+        },
+        {
+            "id": 4,
+            "name": "Backpack",
+            "price": 29.99,
+            "description": "Durable backpack with multiple compartments for travel.",
+            "image": "Untitled design (6).png"
+        },
+        {
+            "id": 5,
+            "name": "Smartwatch",
+            "price": 89.99,
+            "description": "A smartwatch with fitness tracking and notifications.",
+            "image": "Untitled design (24).png"
+        },
+        {
+            "id": 6,
+            "name": "Wireless Headphones",
+            "price": 49.99,
+            "description": "Noise-cancelling wireless headphones with long battery life.",
+            "image": "Untitled design (8).png"
+        },
+        {
+            "id": 7,
+            "name": "Sunglasses",
+            "price": 19.99,
+            "description": "UV-protected sunglasses with a modern frame.",
+            "image": "Untitled design (9).png"
+        },
+        {
+            "id": 8,
+            "name": "Leather Wallet",
+            "price": 24.99,
+            "description": "A sleek leather wallet with multiple card slots.",
+            "image": "Untitled design (10).png"
+        },
+        {
+            "id": 9,
+            "name": "Sports Cap",
+            "price": 12.99,
+            "description": "Adjustable sports cap for casual and outdoor wear.",
+            "image": "Untitled design (11).png"
+        },
+        {
+            "id": 10,
+            "name": "Bluetooth Speaker",
+            "price": 34.99,
+            "description": "Portable Bluetooth speaker with deep bass.",
+            "image": "Untitled design (12).png"
+        },
+        {
+            "id": 11,
+            "name": "Desk Lamp",
+            "price": 22.99,
+            "description": "LED desk lamp with adjustable brightness settings.",
+            "image": "Untitled design (13).png"
+        },
+        {
+            "id": 12,
+            "name": "Travel Mug",
+            "price": 15.99,
+            "description": "Insulated travel mug to keep drinks hot or cold.",
+            "image": "Untitled design (14).png"
+        },
+        {
+            "id": 13,
+            "name": "Winter Jacket",
+            "price": 99.99,
+            "description": "Warm insulated jacket perfect for cold weather.",
+            "image": "Untitled design (15).png"
+        },
+        {
+            "id": 14,
+            "name": "Gaming Mouse",
+            "price": 44.99,
+            "description": "Ergonomic gaming mouse with customizable buttons.",
+            "image": "Untitled design (16).png"
+        },
+        {
+            "id": 15,
+            "name": "Yoga Mat",
+            "price": 18.99,
+            "description": "Non-slip yoga mat for exercise and meditation.",
+            "image": "Untitled design (17).png"
+        },
+        {
+            "id": 16,
+            "name": "Digital Camera",
+            "price": 149.99,
+            "description": "Compact digital camera with HD video recording.",
+            "image": "Untitled design (18).png"
+        },
+        {
+            "id": 17,
+            "name": "Office Chair",
+            "price": 129.99,
+            "description": "Ergonomic office chair with lumbar support.",
+            "image": "Untitled design (19).png"
+        },
+        {
+            "id": 18,
+            "name": "Water Bottle",
+            "price": 11.99,
+            "description": "Reusable water bottle with leak-proof lid.",
+            "image": "Untitled design (20).png"
+        },
+        {
+            "id": 19,
+            "name": "Cookware Set",
+            "price": 199.99,
+            "description": "10-piece non-stick cookware set for everyday cooking.",
+            "image": "Untitled design (23).png"
+        },
+        {
+            "id": 20,
+            "name": "Board Game",
+            "price": 27.99,
+            "description": "Fun family board game for 2–6 players.",
+            "image": "Untitled design (22).png"
+        }
+    ]
+}
