@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop with Pagination</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>My Shop</h1>
+        <button id="toggleCart">🛒 Cart (<span id="cartCount">0</span>)</button>
+    </header>
+
+    <!-- Products -->
+    <main>
+        <div id="products"></div>
+        <div id="pagination" class="pagination"></div>
+        <div class="sort-controls">
+            <button id="sortLowHigh">Sort: Low → High</button>
+            <button id="sortHighLow">Sort: High → Low</button>
+        </div>
+
+        <div id="products" class="product-container"></div>
+    </main>
+
+    <!-- Cart Sidebar -->
+    <aside id="cart" class="hidden">
+        <h2>Your Cart</h2>
+        <button id="closeCart" class="close-btn">✖</button>
+        <ul id="cartItems"></ul>
+        <p>Total: $<span id="cartTotal">0.00</span></p>
+        <button id="clearCart" class="clear-cart-btn">Clear Cart</button>
+    </aside>
+
+    <!-- Notification -->
+    <div id="notification" class="notification hidden"></div>
+
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+</body>
+
+</html>
